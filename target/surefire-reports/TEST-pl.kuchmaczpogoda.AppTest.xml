@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="pl.kuchmaczpogoda.AppTest" time="0.038" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="F:\JavaPrograms\ApkaPogodwa\target\test-classes;C:\Users\Janek\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Janek\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-controls\11.0.2\javafx-controls-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-graphics\11.0.2\javafx-graphics-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-base\11.0.2\javafx-base-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-fxml\11.0.2\javafx-fxml-11.0.2.jar;C:\Users\Janek\.m2\repository\io\github\cdimascio\dotenv-java\2.2.0\dotenv-java-2.2.0.jar;C:\Users\Janek\.m2\repository\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter C:\Users\Janek\AppData\Local\Temp\surefire11121092920485124620 2021-08-22T10-56-46_796-jvmRun1 surefire15873719733334465428tmp surefire_04565939345192690639tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="F:\JavaPrograms\ApkaPogodwa\target\test-classes;C:\Users\Janek\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Janek\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-controls\11.0.2\javafx-controls-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-graphics\11.0.2\javafx-graphics-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-base\11.0.2\javafx-base-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-fxml\11.0.2\javafx-fxml-11.0.2.jar;C:\Users\Janek\.m2\repository\io\github\cdimascio\dotenv-java\2.2.0\dotenv-java-2.2.0.jar;C:\Users\Janek\.m2\repository\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Janek"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="jdk.module.path" value="F:\JavaPrograms\ApkaPogodwa\target\classes;C:\Users\Janek\.m2\repository\org\openjfx\javafx-controls\11.0.2\javafx-controls-11.0.2-win.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-graphics\11.0.2\javafx-graphics-11.0.2-win.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-base\11.0.2\javafx-base-11.0.2-win.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-fxml\11.0.2\javafx-fxml-11.0.2-win.jar;C:\Users\Janek\.m2\repository\org\json\json\20201115\json-20201115.jar"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.12"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="F:\JavaPrograms\ApkaPogodwa"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Janek\.m2\repository\org\apache\maven\surefire\surefire-booter\2.22.1\surefire-booter-2.22.1.jar;C:\Users\Janek\.m2\repository\org\apache\maven\surefire\surefire-api\2.22.1\surefire-api-2.22.1.jar;C:\Users\Janek\.m2\repository\org\apache\maven\surefire\surefire-logger-api\2.22.1\surefire-logger-api-2.22.1.jar;F:\JavaPrograms\ApkaPogodwa\target\test-classes;C:\Users\Janek\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Janek\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-controls\11.0.2\javafx-controls-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-graphics\11.0.2\javafx-graphics-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-base\11.0.2\javafx-base-11.0.2.jar;C:\Users\Janek\.m2\repository\org\openjfx\javafx-fxml\11.0.2\javafx-fxml-11.0.2.jar;C:\Users\Janek\.m2\repository\io\github\cdimascio\dotenv-java\2.2.0\dotenv-java-2.2.0.jar;C:\Users\Janek\.m2\repository\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;C:\Users\Janek\.m2\repository\org\apache\maven\surefire\surefire-junit4\2.22.1\surefire-junit4-2.22.1.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.12+8-LTS-237"/>
+    <property name="user.name" value="Janek"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1250"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Janek\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Janek\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.12"/>
+    <property name="user.dir" value="F:\JavaPrograms\ApkaPogodwa"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.12\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\PROGRA~2\Borland\CBUILD~1\Bin;C:\PROGRA~2\Borland\CBUILD~1\Projects\Bpl;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\PROGRA~2\TABLEC~1.0;C:\PROGRA~2\TABLEC~1.01;C:\Program Files\Git\cmd;C:\xampp\php;C:\xampp\htdocs\Framework folders\vendor;C:\composer;C:\maven\apache-maven-3.8.2\bin;C:\maven\apache-maven-3.8.2\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.12+8-LTS-237"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="pl.kuchmaczpogoda.AppTest" time="0.003"/>
+</testsuite>
